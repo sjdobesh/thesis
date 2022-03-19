@@ -1,4 +1,11 @@
 # music therapy for ASD
+## short term todo
+- [ ] finish reading relevant and included papers
+- [ ] address the few really big queries (it was probably an entry error)
+- [ ] wrap up the quarter?
+	- [ ] formal way to wrap up lit review? 
+	- [ ] how to get ahead on study design?
+
 ## timeline
 ### winter 22
 - Literature review
@@ -28,9 +35,11 @@
 
 ## relevant documents
 - [[queries#combined queries|queries]]
+- [[music as emotions]]
 
 ## thesis ideas
 - machine learning system for music therapy?
+	- Maybe it learns based on input of a multimodal playback system?
 - music therapist assistant?
 - some sort of self monitoring system?
 - How do we get this to interact with AAC technology to also support the needs of NV kids?
