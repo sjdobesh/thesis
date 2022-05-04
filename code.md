@@ -1,3 +1,7 @@
+# Relevant Published Code:
+- [Valence Arousal Detection Using Extreme Learning Machines](https://github.com/aeldesoky/valence-arousal-detection-using-elm)
+	- Git submodule: [TEAP(Toolbox for Emotional feAture extraction)](https://github.com/aeldesoky/valence-arousal-detection-using-elm/tree/1e5f13136670432014fc066e8e2e9ee65da1ca0f/Matlab/TEAP-master)
+
 # python libraries
 - pyaudio
 	- cross platform python audio playback and manupulation.
